@@ -30,7 +30,10 @@ The bot leverages **LiveKit**, a real-time media platform, to handle hosting and
 ├── .gitignore          # Specifies files and folders to ignore
 └── .env                # Environment variables
 
-## To run the bot:
+---
+
+##  Repository Structure
+
 Make sure you have the following installed:
 
 python3.9+     # Recommended Python version

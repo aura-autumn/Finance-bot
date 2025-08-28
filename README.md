@@ -19,7 +19,7 @@ The bot leverages **LiveKit**, a real-time media platform, to handle hosting and
 
 ---
 
-##  Repository Structure
+##  Repository Structure and running the code:
 
 ```text
 .
@@ -31,8 +31,6 @@ The bot leverages **LiveKit**, a real-time media platform, to handle hosting and
 └── .env                # Environment variables
 
 ---
-
-##  Repository Structure
 
 Make sure you have the following installed:
 

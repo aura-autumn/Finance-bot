@@ -1,6 +1,6 @@
 # Finance-bot
 
-A finance bot that answers questions about finance and uses LiveKit for hosting.
+A finance bot that answers questions about finance and uses LiveKit for hosting the voice agent.
 
 ---
 
@@ -30,7 +30,7 @@ The bot leverages **LiveKit**, a real-time media platform, to handle hosting and
 ├── .gitignore          # Specifies files and folders to ignore
 └── .env                # Environment variables
 
-To run the bot:
+## To run the bot:
 Make sure you have the following installed:
 
 python3.9+     # Recommended Python version
